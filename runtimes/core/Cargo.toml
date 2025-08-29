@@ -89,7 +89,7 @@ tower-http = { version = "0.5.2", features = ["fs"] }
 google-cloud-storage = "0.22.1"
 serde_path_to_error = "0.1.16"
 tracing = "0.1.40"
-tracing-subscriber = { version = "0.3.18", features = [
+tracing-subscriber = { version = "0.3.20", features = [
     "alloc",
     "ansi",
     "env-filter",

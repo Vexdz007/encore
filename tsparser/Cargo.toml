@@ -40,7 +40,7 @@ indexmap = { version = "2.1.0", features = ["serde"] }
 serde_yaml = "0.9.32"
 symlink = "0.1.0"
 tracing = "0.1.40"
-tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.20", features = ["env-filter"] }
 junction = "1.2.0"
 thiserror = "1.0.64"
 matchit = "0.7.3"

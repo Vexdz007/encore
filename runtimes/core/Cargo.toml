@@ -21,7 +21,7 @@ tokio-stream = "0.1.17"
 tokio-nsq = "0.14.0"
 xid = "1.0.3"
 log = { version = "0.4.20", features = ["kv_unstable", "kv_unstable_serde"] }
-bytes = { version = "1.5.0", features = [] }
+bytes = { version = "1.11.1", features = [] }
 postgres-protocol = "0.6.8"
 tokio-postgres = { version = "0.7.13", features = [
     "array-impls",
